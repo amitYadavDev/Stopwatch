@@ -1,4 +1,4 @@
-#The layout for Stopwatch includes:
+# The layout for Stopwatch includes:
 
 A TextView: showing how much time has passed
 Three Buttons:
